@@ -1,0 +1,7 @@
+D:\Dropbox\Documents\Codage\C#\PlusOuMoins\bin\Debug\PlusOuMoins.exe.config
+D:\Dropbox\Documents\Codage\C#\PlusOuMoins\bin\Debug\PlusOuMoins.exe
+D:\Dropbox\Documents\Codage\C#\PlusOuMoins\bin\Debug\PlusOuMoins.pdb
+D:\Dropbox\Documents\Codage\C#\PlusOuMoins\obj\Debug\PlusOuMoins.csprojResolveAssemblyReference.cache
+D:\Dropbox\Documents\Codage\C#\PlusOuMoins\obj\Debug\PlusOuMoins.csproj.CoreCompileInputs.cache
+D:\Dropbox\Documents\Codage\C#\PlusOuMoins\obj\Debug\PlusOuMoins.exe
+D:\Dropbox\Documents\Codage\C#\PlusOuMoins\obj\Debug\PlusOuMoins.pdb
